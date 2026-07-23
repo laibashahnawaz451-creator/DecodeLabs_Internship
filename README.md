@@ -37,9 +37,7 @@ The game continues until the player guesses the correct number.
 ##  How to Run
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   ```
+  https://github.com/laibashahnawaz451-creator/DecodeLabs_Internship.git
 
 2. Open the project in any Java IDE (VS Code, IntelliJ IDEA, Eclipse, etc.).
 
